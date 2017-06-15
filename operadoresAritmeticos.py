@@ -8,4 +8,6 @@ e = n1**n2
 print('A soma é {}, \n o produto é {} e a \n divisão é {:.3f}'.format(s, m, d), end=' ')
 print('Divisão inteira {} e potência {}'.format(di, e))
 
+nome = input("Eu fiz uma mudança aqui")
+
 
